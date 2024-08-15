@@ -1,0 +1,17 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "socialBar": "xpath=(//div[contains(@class,'eh-share')])[1]",
+    "facebookShareButton": "xpath=(//a[@data-name='facebook' or @data-share='facebook'])[1]",
+    "twitterShareButton": "xpath=(//a[@data-name='twitter' or @data-share='twitter'])[1]",
+    "pinterestShareButton": "xpath=(//a[@data-name='pinterest' or @data-share='pinterest'])[1]",
+    "emailShareButton": "xpath=(//a[@data-name='email' or @data-share='email'])[1]",
+    "printShareButton": "xpath=(//a[@data-name='print' or @data-share='print'])[1]",
+	"saveLink":"css=.saveArticle>h4",
+	"saveLinkBookmark":"css=.eh-ccr-symbol-bookmark-on",
+	"socialShareButtons": "xpath=(//*[@class='eh-share'])[1]//*[@data-count]",
+	"socialShareButtonsCuso": "xpath=(//*[@class='eh-share'])[1]//li",
+    "socialShareButtonsNew": "css=.share_text",
+    "socialShareCount": "xpath=(//*[@class='eh-share'])[1]//*[@class='share-count']"
+  }
+}

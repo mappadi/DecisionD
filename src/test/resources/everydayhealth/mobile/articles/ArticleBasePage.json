@@ -1,0 +1,13 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "contentCardNativeAd": "id=adDiv100",
+    "articleBodyBox1Ad": "xpath=//div[@class='article-body']/p[text()][%s]//following-sibling::div/div/div[@id='adDiv5']",
+    "articleBodyNative2Ad": "xpath=//div[@class='article-body']/p[text()][%s]//following-sibling::div/div/div[@id='adDiv100']",
+    "articleBodyBox2Ad": "xpath=//div[@class='article-body']/p[text()][%s]//following-sibling::div/div/div[@id='adDiv7']",
+    "articleBodyBoxExtraAd": "xpath=//div[@class='article-body']/p[text()][%s]//following-sibling::div/div/div[@id='adDiv9']",
+    "adBlockBelowArticle": "xpath=//div[@class='article-content']/following::div/div/div[@id='%s']",
+    "adBlockBelowNewsletterModule": "xpath=//section[@id='eh-module-newsletter-smart']/following::div[@id='%s']",
+    "deck": "css=h2.deck"
+  }
+}

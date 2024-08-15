@@ -1,0 +1,26 @@
+{
+  "pageUrl": "/cancer/",
+  "elements": {
+    "headline": "css=.sub-header h1",
+    "deck": "css=.sub-header__dek h2",
+    "allArticlesWidget": "css=.widget-all-articles",
+    "allArticlesWidgetTypes": "css=.widget-all-articles span",
+    "allArticlesWidgetArticlesLink": "css=.widget-all-articles a",
+    "subcategorySectionHeadline": "css=h2.section-header",
+    "subcategorySectionBlocks": "css=.section-cards__container .card",
+    "subcategorySectionBlocksAccordion": "css=.section-cards__container .card a.eh-ccr-symbol-arrow-down",
+    "subcategorySectionBlockTitle": "xpath=//div[contains(@class,'card--with-image')][%s]//h3",
+    "subcategorySectionBlockTitleHyperlink": "xpath=//div[contains(@class,'card--with-image')][%s]//h3/a",
+    "subcategorySectionBlockDescription": "xpath=//div[contains(@class,'card--with-image')][%s]//h4[1]",
+    "subcategorySectionBlockArticlesListTitle": "xpath=//div[contains(@class,'card--with-image')][%s]//h4[@class='ul-header']",
+    "subcategorySectionBlockArticlesListLink": "xpath=//div[contains(@class,'card--with-image')][%s]//ul/li/a",
+    "subcategorySectionBlockReadAbout": "xpath=//div[contains(@class,'card--with-image')][%s]//div[@class='card__topics']",
+    "subcategorySectionBlockReadAboutTopics": "xpath=//div[contains(@class,'card--with-image')][7]//div[@class='card__topics']/h5/a",
+    "newsletterModule": "css=.card:nth-of-type(%s)+section",
+    "promoWidget": "css=.card--condition-info",
+    "promoWidgetTitle": "css=.card--condition-info>div a.card__body__title",
+    "promoWidgetLearnMoreLink": "css=.card--condition-info>div a.card__body__link--more-info",
+    "promoWidgetDescription": "css=.card--condition-info>div p",
+    "promoWidgetThumbnailImage": "css=.card--condition-info img"
+  }
+}

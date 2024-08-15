@@ -1,0 +1,26 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "slideTabAddSlideButton": "id=addSlide",
+    "slidePropertiesWindow": "css=.slide-modal-lg",
+    "slideIconHDD": "css=.icon-hdd",
+    "slideHed": "id=Headline",
+    "slideImageURLInput": "id=Image_Url",
+    "slideImageError": "id=url-error-required",
+    "slideImageURLError": "id=url-error",
+    "slideAltTextInput": "id=Image_AltText",
+    "slideAltTextError": "id=altText-error",
+    "slideSaveChangesButton": "id=submitEdit",
+    "saveSlideshowButton": "id=saveSlideShow",
+    "headlineInput": "id=ParentSlide_Headline",
+    "deckInput": "id=ParentSlide_Deck",
+    "bodyIFrame": "id=Body_ifr",
+    "lastUpdatedInput": "id=ParentSlide_LastUpdated",
+    "lastUpdatedError": "css=.field-validation-error",
+    "slidesPreview": "css=#pane-slides .preview-container",
+    "slideItem": "css=#pane-slides .gallery-container>div",
+    "slideItemEdit": "css=#pane-slides .gallery-container>div a.edit-item",
+    "slideItemRemove": "css=#pane-slides .gallery-container>div a.trash-item",
+    "slideItemRemoveConfirm": "css=.confirm-removal a.remove-item"
+  }
+}

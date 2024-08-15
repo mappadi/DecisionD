@@ -1,0 +1,14 @@
+{
+  "pageUrl": "/diet/members/settings/profile",
+  "elements": {
+    "profileSettingsHeader": "css=.hero2.container",
+    "expandAccountInformation": "css=.accordion-trigger",
+    "emailHolder": "id=form-email-holder",
+    "liveItCheckbox": "css=input[id='Enrolled-live']+div.picker.picker-radio.inline>div.picker-handle>div.picker-flag",
+    "saveChangesButton": "id=save",
+    "loseItCheckbox": "css=input[id='Enrolled-lose']+div.picker.picker-radio.inline>div.picker-handle>div.picker-flag",
+    "firstNameInput":"id=FirstName",
+    "lastNameInput":"id=LastName",
+    "screenNameInput":"id=ScreenName"
+  }
+}

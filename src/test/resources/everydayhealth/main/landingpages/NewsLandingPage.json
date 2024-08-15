@@ -1,0 +1,18 @@
+{
+  "pageUrl": "/news/",
+  "elements": {
+    "descriptionContactUs": "css=.guide_subheader p a",
+    "healthDayWidget": "css=.widget-healthday",
+    "healthDayWidgetTitle": "css=.widget-healthday h2",
+    "healthDayWidgetCard": "css=.widget-healthday .card",
+    "healthDayWidgetCardTitle": "css=.widget-healthday .card h3",
+    "healthDayWidgetCardTypeIcon": "css=.widget-healthday .card i",
+    "healthDayWidgetCardByline": "css=.widget-healthday .card .card__byline",
+    "healthDayWidgetCardTimestamp": "css=.widget-healthday .card .card__byline span:last-of-type",
+    "healthDayWidgetCardImage": "css=.widget-healthday .card img",
+    "healthDayWidgetCardDescription": "css=.widget-healthday .card .card__desc",
+    "contentCardTimestamp": "css=.eh-condition-landing-articles .card .card__byline span:last-of-type",
+    "contentCardBylineHyperlinked": "css=.eh-condition-landing-articles .card .card__byline a",
+    "newsletterWidgetPosition":"css=.eh-condition-landing-articles>div#newsletter-widget:nth-of-type(%s)"
+  }
+}

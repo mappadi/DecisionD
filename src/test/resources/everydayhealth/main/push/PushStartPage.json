@@ -1,0 +1,8 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "productSelectForm": "css=.panel-default",
+    "productDropdownOption": "id=ProductId",
+    "selectButton": "css=input.btn"
+  }
+}

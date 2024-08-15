@@ -1,0 +1,6 @@
+{
+  "pageUrl": "/food-fitness/recipe/recipesearch",
+  "elements": {
+    "recipeCount": "id=recipe-count"
+  }
+}

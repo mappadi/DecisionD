@@ -1,0 +1,7 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "debugAdsBlocks": "xpath=//div[contains(@class,'ad-placeholder')][not(contains(@style,'display: none;'))][not(@id='adDiv51')]//div[@class='debugadcode']",
+    "debugValue": "xpath=//div[contains(@class,'ad-placeholder')][not(contains(@style,'display: none;'))][not(@id='adDiv51')]//div[@class='debugadcode']//*[contains(@style,'min-width')][text()='%s:' or text()='%s']//..//following-sibling::td"
+  }
+}

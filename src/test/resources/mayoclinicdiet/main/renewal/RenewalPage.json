@@ -1,0 +1,8 @@
+{
+  "pageUrl": "/diet/account/renew",
+  "elements": {
+    "timeToRenewHeader": "css=.renewal-deck-text",
+    "accountInfo": "css=.member-large.accordion-group",
+    "renewButton": "id=save"
+  }
+}

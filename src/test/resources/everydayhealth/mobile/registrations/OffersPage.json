@@ -1,0 +1,6 @@
+{
+  "pageUrl": "*/offer/*",
+  "elements": {
+    "skipOffer": "css=button#btnOMSkip"
+  }
+}

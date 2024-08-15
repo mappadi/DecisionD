@@ -1,0 +1,19 @@
+{
+  "pageUrl": "/diet/members/motivate",
+  "elements": {
+    "landingTitle": "css=.landing-title[style='background-image:url(http://content.everydayhealth.com/mayodiet/images/motivate-article-landing.jpg?clearcache=true)']",
+    "mindAndBodySection": "css=.landing-section>a[href='/diet/members/motivate/mind-and-body']",
+    "obstaclesSection": "css=.landing-section>a[href='/diet/members/motivate/obstacles']",
+    "successStoriesSection": "css=.landing-section>a[href='/diet/members/motivate/success-stories']",
+    "supportSection": "css=.landing-section>a[href='/diet/members/motivate/support']",
+    "mindAndBodyImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-mind-body-main-landing.jpg']",
+    "mindAndBodySectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-mind-body-main-landing.jpg']+h2",
+    "obstaclesImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-obstacles-main-landing.jpg']",
+    "obstaclesSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-obstacles-main-landing.jpg']+h2",
+    "successStoriesImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-success-stories-main-landing.jpg?clearcache-true']",
+    "successStoriesSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-success-stories-main-landing.jpg?clearcache-true']+h2",
+    "supportImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-support-main-landing.jpg?clearcache=true']",
+    "supportSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/motivate-support-main-landing.jpg?clearcache=true']+h2",
+    "breadcrumb": "css=.column.breadcrumb"
+  }
+}

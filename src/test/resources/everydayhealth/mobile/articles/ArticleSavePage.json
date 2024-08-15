@@ -1,0 +1,11 @@
+{
+  "pageUrl": "/profile/saved-items/",
+  "elements": {
+    "editLink": "css=.eh-private-page__edit-link:not(.eh-private-page__edit-link--done)>a",
+    "savedArticleDeleteButton": "css=.card__remove-button",
+    "savedItemsHeader": "css=.eh-private-page__header>h1",
+    "doneLink": "css=.eh-private-page__edit-link.eh-private-page__edit-link--done>a",
+    "subcategoryLink": "css=.section-header-subcategory-url",
+    "breadcrumbLink": "xpath=//a[@class='saved-item-url' and contains(text(),\"%s\")]"
+  }
+}

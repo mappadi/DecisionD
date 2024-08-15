@@ -1,0 +1,30 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "adDiv5": "css=.section-cards--stacked:nth-of-type(4) #adDiv5",
+    "adDiv7": "css=.section-cards--stacked:nth-of-type(5) #adDiv7",
+    "verticalPromoSectionBlocks": "css=.section-cards--stacked",
+    "verticalPromoSectionBlockCards": "xpath=//section[contains(@class,'section-cards--stacked')][%s]//div[contains(@class,'card--wide')]",
+    "verticalPromoSectionBlockHeadline": "css=.section-cards--stacked .section-cards__header",
+    "verticalPromoSectionBlockCardLink": "css=.section-cards--stacked .card__cover-link",
+    "verticalPromoSectionBlockCardImage": "css=.section-cards--stacked img",
+    "verticalPromoSectionBlockCardSponsoredTag": "css=.section-cards--stacked .card__sponsored-flag",
+    "verticalPromoSectionBlockCardHeadline": "css=.section-cards--stacked h3 a",
+    "verticalPromoSectionBlockCardDeck": "css=.section-cards--stacked .card__desc",
+    "verticalPromoSectionBlockCardTypeIcon": "css=.section-cards--stacked .card i",
+    "verticalPromoSectionBlockCardMoreLink": "css=.section-cards--stacked:nth-child(5) .section-cards__more-link a",
+    "verticalPromoSectionFirstBlockSeeMore":"xpath=//section[contains(@class,'section-cards--stacked')][1]//div[@class='more-button more-content']",
+    "horizontalPromoSectionBlocks": "css=.section-cards--inline",
+    "horizontalPromoSectionBlockCards": "xpath=//section[contains(@class,'section-cards--inline')][%s]//div[contains(@class,'card--wide')]",
+    "horizontalPromoSectionBlockHeadline": "css=.section-cards--inline h2",
+    "horizontalPromoSectionBlockPrevArrow": "xpath=//section[contains(@class,'section-cards--inline')][%s]//a[contains(@class,'--prev')]",
+    "horizontalPromoSectionBlockNextArrow": "xpath=//section[contains(@class,'section-cards--inline')][%s]//a[contains(@class,'--next')]",
+    "horizontalPromoSectionBlockCardLink": "css=.section-cards--inline .card__cover-link",
+    "horizontalPromoSectionBlockCardImage": "xpath=//section[contains(@class,'section-cards--inline')][%s]//img",
+    "horizontalPromoSectionBlockCardHeadline": "xpath=//section[contains(@class,'section-cards--inline')][%s]//h3",
+    "horizontalPromoSectionBlockCardTypeIcon": "xpath=//section[contains(@class,'section-cards--inline')][%s]//aside//i",
+    "linksListSection": "css=.section-linklist",
+    "linksListSectionHeader": "css=.section-linklist__header h3",
+    "linksListSectionLinks": "css=.section-linklist__content a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pageUrl": "",
+  "elements": {
+    "heroImage": "css=img.hero-image",
+    "breadcrumb": "css=.direct_home h3",
+    "breadcrumbLink": "css=.direct_home h3 a",
+    "breadcrumbArrow": "css=.direct_home h3 i",
+    "byLine": "css=h3.byline_text:nth-of-type(1)",
+    "medicalReview": "css=h3.byline_text:nth-of-type(2)",
+    "relatedContentWidget": "css=.card--promo",
+    "relatedContentWidgetLink": "css=.card--promo>a:nth-of-type(1)",
+    "relatedContentWidgetEyebrow": "css=.card--promo .card__sponsored-flag",
+    "relatedContentWidgetImage": "css=.card--promo img",
+    "relatedContentWidgetTitle": "css=.card--promo h3",
+    "relatedContentWidgetDescription": "css=.card--promo .card__desc",
+    "imageCaption": "css=.media-credit>div[class*=caption] a",
+    "imageCredit": "css=.media-credit>div[class*=credit] a",
+    "headlineSection": "css=div.article_header",
+    "title": "css=.article_header>h1",
+    "deck": "css=h2.deck",
+    "promoWidget": "css=.widget.linklist"
+  }
+}

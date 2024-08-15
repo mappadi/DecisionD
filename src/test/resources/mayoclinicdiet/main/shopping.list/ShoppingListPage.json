@@ -1,0 +1,8 @@
+{
+  "pageUrl": "/GetShoppingList",
+  "elements": {
+    "header": "css=.column>h1",
+    "shoppingList": "id=divShoppingList",
+    "subHeader": "css=.shoppingList-subhead>span"
+  }
+}

@@ -1,0 +1,85 @@
+package framework.platform;
+
+public enum TemplatesEH {
+
+	HOMEPAGE(""),
+	ARTICLE_V3("/news/best-worst-foods-eat-before-bed/"),
+	ARTICLE_V3_CSZONE("/multiple-sclerosis/living-with/multiple-sclerosis-emotional-support/"),
+	ARTICLE_VIDEO_V3("/emotional-health/0503/we-are-all-the-scream.aspx"),
+	ARTICLE_VIDEO_AOL("/news/two-sisters-with-the-breast-cancer-gene-make-different-choices/"),
+	ARTICLE_V3_WITH_TERTIARY_IMAGE("/multiple-sclerosis/specialists/common-medications-trigger-my-moms-ms-symptoms.aspx"),
+	ARTICLE_V3_WITH_PRIMARY_VIDEO("/news/exclusive-coverage-center-without-walls-winter-forum/"),
+	ARTICLE_V3_WITH_PRIMARY_IMAGE_SECONDARY_VIDEO("/multiple-sclerosis/treatment/striking-nerve-allergy-drug-tested-ms/"),
+	ARTICLE_V3_WITH_PRIMARY_VIDEO_TERTIARY_IMAGE("/news/most-difficult-question-will-you-give-me-piece-your-liver/"),
+	ARTICLE_V3_WITH_SECONDARY_IMAGE("/news/he-impatient-type-check-his-eyes/"),
+	ARTICLE_V3_WITH_PULLQUOTE("/news/how-protect-yourself-during-mass-shooting/"),
+	ARTICLE_V3_ECOMMERCE_WIDGET("/testpage/pr-636590270084199114/"),
+	CCR_ARTICLE("/multiple-sclerosis/living-with/six-steps-landing-dream-job-with-ms/"),
+	CCR_ARTICLE_CPCARD("/type-2-diabetes/diet/breakfast-ideas-for-diabetes/"),
+	GUIDE("/parkinsons-disease/guide/"),
+	GUIDE_NEWS_PAGE("/multiple-sclerosis/news/"),
+	ARTICLE_VIDEO_PAGE("/news/what-ancient-maya-can-teach-us-about-living-well/"),
+	SLIDESHOW("/pictures/unexpected-ways-to-use-baking-soda/"),
+	SLIDESHOW_WITH_CP_CARDS("/type-2-diabetes/best-fruits-for-diabetes/"),
+	INFOGRAPHIC("/infographics/christmas-cookie-monster/"),
+	BLOGS_INDEX("/columns/"),
+	BLOGS_AUTHOR("/authors/howard-chang/"),
+	BLOG_ARTICLE("/columns/adam-friedman-the-skin-youre-in/facts-about-flesh-eating-fungal-infection-mucormycosis/"),
+	BLOG_LANDING_SINGLE_AUTHOR("/columns/adam-friedman-the-skin-youre-in/"),
+	BLOG_LANDING_MULTIPLE_AUTHORS("/columns/my-cancer-story/"),
+	CUSO_ARTICLE_V3("/testpage/pr-636445257866940357/"),
+	CUSO_ARTICLE_V3_MLR("/testpage/pr-636289269376989693/"),
+	CUSO_ARTICLE("/testpage/gl-636638608301980000/"),
+	CUSO_ARTICLE_MLR("/cuso-article-page-with-widets-mlr-automation/"),
+	CUSO_SLIDESHOW("/testpage/automation/cuso-slideshow/"),
+	CUSO_SLIDESHOW_MLR("/cuso-slidehsow-mlr-flag-with-widgets-automation/"),
+	CATEGORY_LANDING("/cancer/"),
+	CATEGORY_ALL_ARTICLES("/cancer-all-articles/"),
+	NEWS_LANDING_PAGE("/news/"),
+	TOPIC_LANDING("/multiple-sclerosis/physical-therapy/"),
+	LANDING("/multiple-sclerosis/"),
+	CUSO_VIDEOLOGUES_SINGLE_TAB("/solutions/diabetes-test-videologue/"),
+	CUSO_VIDEOLOGUES_MULTIPLE_TABS("/solutions/stories-test-videologue/"),
+	CUSO_LANDING_LOBBY("/solutions/testpage/pr-636289409663675693/"),
+	CUSO_CONDITION_COURSE("/solutions/testpage/pr-636289312875691693/"),
+	CUSO_MANAGEMENT_SELECTOR("/solutions/testpage/pr-636289361913485693/"),
+	HTML_DIABETES_MEAL_PLANNER("/diabetes-meal-planner/"),
+	HTML_CALORIE_COUNTER("/calorie-counter/"),
+	HTML_MEAL_PLANNER("/meal-planner/"),
+	FLU_MAP("/flu/map/"),
+	PROGRAM("/type-2-diabetes/living-with/step-by-step/"),
+	DRUGS_LANDING("/drugs/"),
+	DRUGS_SEARCH("/drugs/search"),
+	DRUGS_PROFILE("/drugs/ibuprofen"),
+	DRUGS_BY_LETTER("/drugs/s"),
+	DRUGS_BY_CLASS("/drugs/class/analgesics"),
+	DRUGS_REVIEW("/drugs/ibuprofen/reviews"),
+	DRUGS_COUPONS("/drugs/ibuprofen/coupons"),
+	LOBBY_LIST_PAGE("/lifestyle/slim-down-for-summer-challenge/"),
+	LIFEHACK_PAGE("/rheumatoid-arthritis/life-hacks/living-with-ra/2/"),
+	RECIPES("/recipes/raspberries/"),
+	RA_PERSONALIZED_TRACKER("/dashboard/my-daily-ra/"),
+	CROHNS_PERSONALIZED_TRACKER("/dashboard/my-daily-crohns/"),
+	DIABETES_PERSONALIZED_TRACKER("/dashboard/my-daily-diabetes/"),
+	AMP_PAGE("/news/things-you-probably-didnt-know-about-your-tongue/"),
+	RESOURCE_CENTER_V3("/resource-center-template-automation-test-page/"),
+	RESOURCE_CENTER_V3_PROD("/testpage/pr-636323166084256622/"),
+	RESOURCE_CENTER_BR_ZONE("/resource-center-3-0-automation-test-page-branded/"),
+	VIDEO_LANDING_PAGE("/testpage/pr-636361260097591543/"),
+	VISUALIZER_LITE_PAGE("/testpage/gl-636674869816569307/"),
+	MASTER_LANDING_PAGE("/testpage/ma-636522312007396804/"),
+	MASTER_CONTENT_PAGE("/testpage/gl-636595365636573419/"),
+	MASTER_CONTENT_PAGE_PROD("/testpage/gl-636620461095222747/"),
+	PHOTO_GALLERY("/testpage/yk-photogallerywith20items/"),
+	SIMPLE_QUIZ("/testpage/ap-636566267708103759/");
+
+	private String url;
+
+	TemplatesEH(String url) {
+		this.url = url;
+	}
+
+	public String getTemplateURL() {
+		return url;
+	}
+}

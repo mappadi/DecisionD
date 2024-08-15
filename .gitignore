@@ -1,0 +1,6 @@
+
+.idea/
+target/
+Automation.iml
+LinkCheckerReport.xlsx
+src/test/resources/Links.csv

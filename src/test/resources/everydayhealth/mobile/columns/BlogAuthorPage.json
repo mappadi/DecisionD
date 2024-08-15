@@ -1,0 +1,10 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "authorName": "css=h2.author-name",
+    "authorImage": "css=.author-img>img",
+    "authorDescription": "css=.author-copy",
+    "socialNetworkIcon": "css=.author-copy nav a i",
+    "socialNetworkIconLink": "css=.author-copy nav a"
+  }
+}

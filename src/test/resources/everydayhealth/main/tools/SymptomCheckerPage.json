@@ -1,0 +1,6 @@
+{
+  "pageUrl": "/symptom-checker/",
+  "elements": {
+    "symptomCheckerTitle": "css=.sub-header h1"
+   }
+}

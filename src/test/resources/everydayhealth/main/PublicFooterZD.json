@@ -1,0 +1,27 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "footer": "css=.eh-footer",
+    "footerLogo": "css=h4.eh-footer__logo img",
+    "footerText": "css=h4.eh-footer__logo",
+    "socialBar": "css=.eh-footer__social-icons-container",
+    "facebookButton": "css=footer a.facebook",
+    "twitterButton": "css=footer a.twitter",
+    "instagramButton": "css=a.instagram",
+    "pinterestButton": "css=footer a.pinterest",
+    "googleplusButton": "css=a.googleplus",
+    "ehLinksInColumns": "xpath=(//div[contains(@class,'visible-lg')]//ul[@class='eh-footer__links-container'])[%s]//li/a",
+    "ehLinks": "css=.visible-lg .eh-footer__link",
+    "adChoiceIcon": "css=.visible-lg img.eh-footer__adchoice-icon",
+    "footerBorderLine": "css=footer hr",
+    "honCodeSection": "css=div.hon-code",
+    "honCodeImage": "css=div.hon-code>a img",
+    "honCodeImageLink": "css=div.hon-code>a",
+    "honCodeText": "css=div.hon-code .honcode-text",
+    "honCodeVerifyHereLink": "css=div.hon-code .honcode-text a",
+    "footerCopyright": "css=.eh-footer__copyright",
+    "ziffDavisLinksContainer": "css=.eh-footer__ziff-davis-links-container",
+    "ziffDavisLinksDescription": "css=.eh-footer__ziff-davis-links-container span",
+    "ziffDavisLinks": "css=.eh-footer__ziff-davis-links-container a"
+  }
+}

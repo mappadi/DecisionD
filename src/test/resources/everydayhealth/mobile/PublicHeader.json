@@ -1,0 +1,14 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "header": "css=#head-content",
+    "menuBar": "css=.navbar-toggle",
+    "logoEH": "css=.nav-title.sprite",
+    "loginLink": "css=li.hidden-desktop.user-menu a[href='/login/']",
+    "profileName": "css=li.hidden-desktop.user-menu span.js-username",
+    "drugs": "css=ul.nav a[href*='drugs']",
+    "healthAZ": "css=ul.nav a[href*='conditions']",
+    "siteSearchBox": "css=#head-content li[class^='nav']:nth-of-type(1) input",
+    "siteSearchButton": "css=#head-content li[class^='nav']:nth-of-type(1) form a"
+  }
+}

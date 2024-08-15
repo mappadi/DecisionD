@@ -1,0 +1,17 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "shareBarContainer": "css=div.eh-share[data-horisontal='false']",
+    "shareBarFacebookButton": "css=.eh-share[data-horisontal='false'] .eh-share__btn--facebook",
+    "shareBarTwitterButton": "css=.eh-share[data-horisontal='false'] .eh-share__btn--twitter",
+    "shareBarPinterestButton": "css=.eh-share[data-horisontal='false'] .eh-share__btn--pinterest",
+    "shareBarEmailButton": "css=.eh-share[data-horisontal='false'] .eh-share__btn--email",
+    "twitterShareMessageTextArea": "id=status",
+    "shareBarExtend": "css=.eh-share[data-horisontal='false'] .eh-share__btn-extend",
+    "bottomShareBar": "css=div.eh-share[data-horisontal='true']",
+    "bottomShareBarFacebookButton": "css=.eh-share[data-horisontal='true'] .eh-share__btn--facebook",
+    "bottomShareBarTwitterButton": "css=.eh-share[data-horisontal='true'] .eh-share__btn--twitter",
+    "bottomShareBarPinterestButton": "css=.eh-share[data-horisontal='true'] .eh-share__btn--pinterest",
+    "bottomShareBarEmailButton": "css=.eh-share[data-horisontal='true'] .eh-share__btn--email"
+  }
+}

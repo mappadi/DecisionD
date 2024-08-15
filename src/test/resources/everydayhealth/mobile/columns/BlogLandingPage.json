@@ -1,0 +1,22 @@
+{
+  "pageUrl": "/columns/%blog_landing%",
+  "elements": {
+    "head": "css=.eh-blogs-landing-head",
+    "blogTitle": "css=.eh-blogs-landing-head h1",
+    "blogDescription": "css=.eh-blogs-landing-head h2",
+    "aboutAuthorSection": "css=.about-section-desktop>.blogs-landing-about-author",
+    "aboutAuthorLabel": "css=.about-section-desktop>.blogs-landing-about-author h3",
+    "aboutAuthorImage": "css=.about-section-desktop .about-author-avatar img",
+    "aboutAuthorBioShort": "css=.about-section-desktop .landing-author-bio",
+    "aboutAuthorBioReadMore": "css=.about-section-desktop .read-more-link",
+    "relatedTopicsSection": "css=.condition-right-rail .eh-popular-topics-wrapper",
+    "relatedTopicsSectionHeadline": "css=.condition-right-rail h3.section-header",
+    "morePersonalTakesLink": "css=a.browse-more-personal-takes",
+    "cards": "css=.eh-blogs-landing-articles>div:not(.ad-content)",
+    "cardDatePublished": "css=.card-recommendation .card__post-caption",
+    "pagination": "css=.landing-pagination",
+    "paginationPrevArrow": "css=a.pagination-btn-prev",
+    "paginationNextArrow": "css=a.pagination-btn-next",
+    "paginationPageData": "css=.pagination__page-numbers"
+  }
+}

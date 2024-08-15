@@ -1,0 +1,13 @@
+{
+  "pageUrl": "/columns/%blog_landing%/%blog_article%",
+  "elements": {
+    "personalTakes": "css=div.article-personal-takes a",
+    "personalTakesIcon": "css=div.article-personal-takes a img",
+    "articleAuthorImage": "css=h3.byline_text .author-avatar-link img",
+    "articleAuthorName": "css=h3.byline_text .article_link",
+    "articleDisclaimer": "css=div.blog-article-disclaimer",
+    "articleDisclaimerShortened": "css=div.blog-article-disclaimer__top",
+    "articleDisclaimerExpanded": "css=div.blog-article-disclaimer__bottom",
+    "articleDisclaimerSeeMore": "css=div.blog-article-disclaimer__top a"
+  }
+}

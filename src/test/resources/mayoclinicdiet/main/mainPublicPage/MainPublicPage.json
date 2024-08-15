@@ -1,0 +1,29 @@
+{
+  "pageUrl": "/diet/home",
+  "elements": {
+    "signInLink": "css=#logIn_header a",
+    "globalHeader": "css=.hero2",
+    "navigationBar": "css=.nav.container.clearfix.shifter-navigation",
+    "registerNowLink": "css=#register_header a",
+    "theExpertsLink": "css=.body1>a[href='/diet/the-experts']",
+    "howItWorksLink": "css=.body1>a[href='/diet/how-it-works']",
+    "successStoriesLink": "css=.body1>a[href='/diet/success-stories']",
+    "recipesLink": "css=.body1>a[href='/diet/mayo-clinic-diet-recipes']",
+    "sampleMealPlanLink": "css=a[href='/diet/mayo-clinic-diet-menu']",
+    "diagnosticSection": "css=.fd-profile-wrapper.clearfix",
+    "ageFieldInDiagnosticSection": "id=Diagnostics-Form-Age",
+    "heightFeetFieldInDiagnosticSection": "id=Diagnostics-Form-Feet",
+    "heightInchFieldInDiagnosticSection": "id=Diagnostics-Form-Inch",
+    "weightFieldInDiagnosticSection": "id=Diagnostics-Form-Weight",
+    "goalWeightFieldInDiagnosticSection": "id=Diagnostics-Form-Goal",
+    "genderRadioButtonsInDiagnosticSection": "css=.row.row-gender",
+    "emailInputFieldInDiagnosticSection": "id=email",
+    "startFreeButtonInDiagnosticSection": "css=.button",
+    "getTheFreeNewsletter": "css=.column.subscribe-block",
+    "footer": "id=footer-links",
+    "footerLinks": "css=.row.footer-link-list",
+    "footerTextBlock": "css=.body3.text-block",
+    "ehLogo": "css=.eh-logo",
+    "footerTextContainer": "css=.expand.body3.text-container"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "pageUrl": "/drugs/class/${drugName}",
+  "elements": {
+    "drugsByClassSection": "css=#widget-container .content-section",
+    "drugsByClassDrugTitle": "css=.content-section .title h2",
+    "drugsByClassListItem": "css=.drug-list-items .drug-class a"
+  }
+}

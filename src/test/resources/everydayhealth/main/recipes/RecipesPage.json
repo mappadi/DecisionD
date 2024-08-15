@@ -1,0 +1,9 @@
+{
+  "pageUrl": "/recipes/",
+  "elements": {
+    "recipeArticle": "id=article",
+    "addToMealPlanButton": "css=.AddRecipeToMp",
+    "addToJournalButton": "css=.addToJournal",
+    "makeRecipeFavoriteButton": "css=.recipe-fav.nonMobile"
+  }
+}

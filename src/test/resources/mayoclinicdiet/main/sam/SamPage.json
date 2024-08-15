@@ -1,0 +1,11 @@
+{
+  "pageUrl": "http://secure.qa1.agoramedia.com/adm/admuser.asp",
+  "elements": {
+    "valueInputField": "css=input[type='text']",
+    "findButton": "css=.button",
+    "mayoClinicDietOption": "css=option[value='292']",
+    "userAccountDetails": "css=center>table:last-child",
+    "lastCreditCardInfo": "css=center>table:last-child>tbody>tr>td.textBlack:nth-of-type(2)>table>tbody>tr:nth-of-type(2)",
+    "rowsOfAccountInfo": "css=center>table:last-child>tbody>tr"
+  }
+}

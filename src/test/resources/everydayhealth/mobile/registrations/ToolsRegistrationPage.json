@@ -1,0 +1,20 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "introContent": "css=div.eh-intro",
+    "loginLink": "css=nav.eh-nav-access a",
+    "genderMale": "id=male",
+    "genderFemale": "id=female",
+    "genderRadio": "css=.eh-radio",
+    "weightCurrent": "id=cWeight",
+    "weightGoal": "id=gWeight",
+    "heightFt": "id=height-ft",
+    "heightIn": "id=height-in",
+    "email": "id=email",
+    "newsletterSelect": "id=subscribe",
+    "submitButton": "css=.eh-form-actions input[type=submit]",
+    "tips": "css=li.eh-tip",
+    "features": "css=.eh-section-features",
+    "featuresImage": "css=img.eh-tablet-only"
+  }
+}

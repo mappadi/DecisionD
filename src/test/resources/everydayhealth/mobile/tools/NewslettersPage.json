@@ -1,0 +1,8 @@
+{
+  "pageUrl": "/newsletter-subscriptions/*",
+  "elements": {
+    "newslettersTitle": "css=.intro h1",
+    "subscribeSteps": "css=header h4 .highlight",
+    "newslettersOptionsHeading": "css=.jumplinks .highlight"
+  }
+}

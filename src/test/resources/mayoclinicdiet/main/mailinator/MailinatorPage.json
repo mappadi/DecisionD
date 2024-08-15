@@ -1,0 +1,12 @@
+{
+  "pageUrl": "http://mailinator.com/",
+  "elements": {
+    "inboxField": "id=inboxfield",
+    "checkItButton": "css=.btn.btn-dark",
+    "emailRow": "css=.row-fluid.message.ng-scope>a",
+    "fromInfo": "css=div[title='FROM:']> div.innermail.ng-binding",
+    "subjectInfo": "css=div.col-xs-11.outermail>div.innermail.ng-binding",
+    "mailView": "css=.mailview",
+    "aboutYourAccountPart": "css=p:nth-child(10)"
+  }
+}

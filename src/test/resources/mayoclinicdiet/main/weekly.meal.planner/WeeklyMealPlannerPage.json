@@ -1,0 +1,27 @@
+{
+  "pageUrl": "/food-fitness/WeeklyMealPlan",
+  "elements": {
+    "header": "css=.content-full>h1",
+    "breadCrumb": "css=.body4>li",
+    "todayDay": "css=.today+.curr-day",
+    "todayMonth": "css=.today+.curr-day+.curr-month",
+    "todayDate": "css=.today+.curr-day+.curr-month+.curr-d",
+    "dateRange": "css=.date-range",
+    "forwardArrow": "css=.arrow-next.nav.icon.small",
+    "backwardArrow": "css=.arrow-prev.nav.icon.small",
+    "mealItems": "css=.date-row",
+    "mealEntriesList": "css=.meal-column ul li span p",
+    "breakfastCells": "css=.Breakfast li",
+    "deleteIcon": "css=.delete-meal.icon.small.delete",
+    "deleteButtonOnPopup": "css=.ui-state-default.ui-corner-all.button.deleteButtonClass",
+    "addMealLinks": "css=.lnkAddMeal",
+    "copyLink": "css=.linktext.text",
+    "copyButton": "css=.btnCopyMeal.button",
+    "saturdayDay": "id=WeekDay7",
+    "viewByDayButton": "css=.viewbyday.toolbarBtn.left.corners",
+    "editTodayLink": "css=.today~.link a",
+    "viewMoreLink": "css=.linktext.viewmore",
+    "goToTodayButton": "id=btnGoToToday",
+    "shoppingListButton": "css=.shoppingList a .gradient.corners"
+  }
+}

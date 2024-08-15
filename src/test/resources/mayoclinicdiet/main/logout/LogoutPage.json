@@ -1,0 +1,12 @@
+{
+  "pageUrl": "/loggedout",
+  "elements": {
+    "textTopModule": "css=.expand",
+    "firstRowTextModule": "css=.row.module.loggedout-main>h1",
+    "secondRowTextModule": "css=.row.module.loggedout-main>h2",
+    "logInAgainButton": "css=.button",
+    "promoBanner": "css=.row.module.promo-banner",
+    "bottomText": "css=.row.module.promo-banner>p",
+    "logOutBlock": "css=.sign-in-out.signout-block.expand-mobile"
+  }
+}

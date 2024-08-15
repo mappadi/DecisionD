@@ -1,0 +1,24 @@
+{
+  "pageUrl": "/food-fitness/journal/create-custom-food",
+  "elements": {
+    "foodNameInputField": "id=FoodName",
+    "foodGroupDropdownArrow": "css=#s2id_FoodGroup .select2-arrow>b",
+    "foodGroupDropdownOptions": "css=.select2-results-dept-0>div",
+    "yesRadioButton": "css=.step-3.form-section div[class='form-row'] .picker.picker-radio",
+    "selectMealDropdownArrow": "css=#s2id_MealTypeId .select2-arrow>b",
+    "mealAMSnackOption": "css=#select2-results-3>li:nth-of-type(2)>div",
+    "mealDinnerOption": "css=#select2-results-3>li:nth-of-type(5)>div",
+    "whenDropdownArrow": "css=#s2id_DatePicker .select2-arrow>b",
+    "yesterdayOption": "css=#select2-results-4>li:nth-of-type(2)>div",
+    "tomorrowOption": "css=#select2-results-4>li:nth-of-type(3)>div",
+    "servingSizeInputField": "id=ServingSizeWhole",
+    "servingUnitsDropdownArrow": "css=#s2id_ServingUnits .select2-arrow>b",
+    "servingUnitsOptions": "css=#select2-results-7 .select2-results-dept-0>div",
+    "caloriesInputField": "id=FoodCalories",
+    "submitButton": "id=btnSubmit",
+    "successMessage": "id=SuccessMsgDiv",
+    "createAnotherFoodButton": "id=btnCreateAnotherFood",
+    "goToJournalButton": "id=btnGoToJournal",
+    "errorMessage": "css=.error.summary>p"
+  }
+}

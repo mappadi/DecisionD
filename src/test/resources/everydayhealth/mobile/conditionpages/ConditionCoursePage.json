@@ -1,0 +1,25 @@
+{
+  "pageUrl": "/multiple-sclerosis/living-with/six-steps-landing-dream-job-with-ms/",
+  "elements": {
+    "cusoHeaderNavigation": "css=.primary-hdr-header",
+    "headline": "css=h1.primary-hdr-title",
+    "deck": "css=.cc-dek",
+    "byLine": "css=.cc-byline",
+    "medicalReviewer": "css=.cc-reviewed-by",
+    "conditionTabs": "css=#condition-course .cc-category-nav li.icon",
+    "conditionTabsLink": "css=#condition-course .cc-category-nav li.icon a",
+    "conditionTabsImages": "css=#condition-course .cc-category-nav li.icon a>img",
+    "activeConditionTab": "css=#condition-course .cc-category-nav li.icon.active",
+    "getStartedButton": "css=#condition-course .cc-slide.cc-slides-active-slide[data-category='%s'] .slide-intro span.close-intro button",
+    "getStartedContent": "css=#condition-course .cc-slide.cc-slides-active-slide[data-category='%s'] .intro-content",
+    "footerRadioButtons": "css=#condition-course .cc-slides-pagination ul.cc-slides-control-nav li>a[data-category='%s']",
+    "footerNavigation": "css=.cc-slides-pagination.cc-slide-nav",
+    "activeFooterRadioButtons": "css=#condition-course .cc-slides-pagination ul.cc-slides-control-nav li>a[class*='active']",
+    "slides": "css=#condition-course [class$='slide'][data-category='%s'][data-intro='false']",
+    "slideImage": "css=#condition-course [class$='slide'][data-category='%s'][data-intro='false'] img",
+    "slideHeadline": "css=#condition-course [class$='slide'][data-category='%s'][data-intro='false'] h2",
+    "slideContent": "css=#condition-course [class$='slide'][data-category='%s'][data-intro='false'] .content",
+    "nextSlideArrow": "css=.cc-slides-next",
+    "previousSlideArrow": "css=.cc-slides-prev"
+  }
+}

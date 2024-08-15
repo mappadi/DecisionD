@@ -1,0 +1,5 @@
+{
+  "pageUrl": "/drugs/${drugName}",
+  "elements": {
+  }
+}

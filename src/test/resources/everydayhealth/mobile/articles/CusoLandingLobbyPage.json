@@ -1,0 +1,33 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "relatedWidgetItemTitle": "xpath=//section[contains(@class,'eh-module')]/*[contains(@class,'media')]//a[not(contains(@class,'media-object'))]",
+    "lobbySection": "css=.lobby-list",
+    "relatedWidgetItemImage": "xpath=//section[contains(@class,'eh-module')]/*[contains(@class,'media')]//a[contains(@class,'media-object')]",
+    "smallGridItem": "css=.article-grid-sm .col-article-grid",
+    "smallGridArticlesTitle": "xpath=//div[contains(@class,'article-grid')]//div[contains(@class,'article-grid-row')]//h3/a",
+    "smallGridArticlesImage": "xpath=//div[contains(@class,'article-grid')]//div[contains(@class,'article-grid-row')]//a[@class='imagelink']/img",
+    "smallGridArticlesImageLinks": "xpath=//div[contains(@class,'article-grid')]//div[contains(@class,'article-grid-row')]//a[@class='imagelink']",
+    "smallGridArticlesLinksList": "xpath=//div[contains(@class,'article-grid')]//div[contains(@class,'media-linklist')]//a",
+    "gridTables": "xpath=//div[contains(@class,'grid-container')]/div[contains(@class,'col-sm-6')]/*/..",
+    "gridItem": "css=.article-grid-lg .col-article-grid",
+    "gridArticlesTitle": "xpath=//div[contains(@class,'grid-container')]//div[contains(@class,'grid-item')]//h3/a",
+    "gridArticlesImage": "xpath=//div[contains(@class,'grid-container')]//div[contains(@class,'grid-item')]/div[@class='media']//img",
+    "gridArticlesImageLinks": "xpath=//div[contains(@class,'grid-container')]//div[contains(@class,'grid-item')]//a[@class='imagelink']",
+    "smallCarousalArticlesTitle": "xpath=(//div[contains(@class,'slider')])[1]//h3/a",
+    "smallCarousalArticlesImage": "xpath=(//div[contains(@class,'slider')])[1]//a[@class='imagelink']//img",
+    "smallCarousalArticlesImageLinks": "xpath=(//div[contains(@class,'slider')])[1]//a[@class='imagelink']",
+    "primaryCarousalArticlesTitle": "xpath=//*[contains(@class,'primary-media')]//h3/a",
+    "primaryCarousalItems": "css=.content .primary-lead .slides li",
+    "smallGridTitle": "xpath=//div[contains(@class,'article-grid')]//h2/*[@class='hex-added']",
+    "smallCarousalTitle": "xpath=//div[contains(@class,'slider')]//h2/*[@class='hex-added']",
+    "primaryCarousalArticlesImage": "xpath=//*[contains(@class,'primary-media')]//a/img[@class='img-responsive']",
+    "primaryCarousalArticlesImageLink": "xpath=//*[contains(@class,'primary-media')]/a",
+    "prevSmallCarouselButton": "xpath=//div[contains(@class,'slider')]//a[contains(@class,'prev')]",
+    "nextSmallCarouselButton": "xpath=//div[contains(@class,'slider')]//a[contains(@class,'next')]",
+    "nextPrimaryCarouselButton": "css=.primary-lead-next",
+    "prevPrimaryCarouselButton": "css=.primary-lead-prev",
+    "relatedListWidget": "css=.eh-module.eh-module-dynamic",
+    "relatedListHeader": "css=.eh-module.eh-module-dynamic .media-body a"
+  }
+}

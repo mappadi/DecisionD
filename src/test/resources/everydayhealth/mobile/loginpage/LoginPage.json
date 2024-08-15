@@ -1,0 +1,15 @@
+{
+  "pageUrl": "/login/",
+  "elements": {
+    "loginLink": "css=a.login",
+    "toolsDrugFinder": "css=.loginWrapper",
+    "inputEmailId": "css=input#LoginModel_Email",
+    "inputPassword": "css=input#LoginModel_Password",
+    "submitButton": "css=.btn.js-submit.btn-primary",
+    "submitButtonDisabled": "css=.btn.js-submit.disabled",
+    "errorMessage": "id=login-warning",
+    "forgotPassword": "css=a.forgot",
+    "registerNow": "css=.signup a",
+    "loginForm":"id=loginModal"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "trustedSources": "css=.trusted-sources",
+    "trustedSourcesTitle": "css=.trusted-sources h3",
+    "trustedSourcesSeeMoreLink": "css=.trusted-sources a[data-showmore]",
+    "trustedSourcesContent": "css=.trusted-sources__content"
+  }
+}

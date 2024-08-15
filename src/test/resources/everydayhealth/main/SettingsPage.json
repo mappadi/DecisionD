@@ -1,0 +1,12 @@
+{
+  "pageUrl": "/profile/",
+  "elements": {
+    "settingsForm": "css=.content",
+    "editEmailButton": "css=#email-edit .edit",
+    "verifyPasswordInputField": "id=UpdateEmailModel_Password",
+    "newEmailInputField": "id=UpdateEmailModel_NewEmail",
+    "confirmNewEmailInputField": "id=UpdateEmailModel_ConfirmEmail",
+    "updateEmailButton": "css=.updateEmail",
+    "saveChangesButton": "css=.save-profile .js-form-submit"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "header": "css=#head-content",
+    "menuBar": "css=.navbar-inner.nav-eh",
+    "logoEH": "css=.home a .sprite",
+    "loginLink": "css=a.login",
+    "userIconSprite": "css=.dropdown-toggle",
+    "profileName": "css=.js-username",
+    "drugs": "css=ul.nav a[href*='drugs']",
+    "siteSearchBox": "css=#head-content li[class='nav-eh-search-login'] input",
+    "siteSearchButton": "css=#head-content li[class='nav-eh-search-login'] form a"
+  }
+}

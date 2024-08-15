@@ -1,0 +1,15 @@
+{
+  "pageUrl": "/register/?returnurl=%2fdashboard%2fmy-daily-diabetes%2f",
+  "elements": {
+    "ageRange": "css=.agerange-container",
+    "ageRangeDropdown": "id=drp-AgeRange",
+    "ageRangeDropdownOption": "css=#drp-AgeRange option",
+    "ageRangeDropdownOptionText": "xpath=//select[@id='drp-AgeRange']/option[text()='%s']",
+    "medicareQuestionModule": "css=.medicare-container",
+    "medicareAnswerYesCheckbox": "id=trackerRegModel_medicare_yes",
+    "medicareAnswerNoCheckbox": "id=trackerRegModel_medicare_no",
+    "medicationModule": "css=.type2-container",
+    "diabetesMedicationDropdownOption": "css=#drp-type2 option",
+    "under18ErrorMessage": "css=.age-error"
+  }
+}

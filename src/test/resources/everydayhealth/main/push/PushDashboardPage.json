@@ -1,0 +1,11 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "dashboard": "css=.dashboardWidgetsection",
+    "dashboardNavigation": "css=.main-menu",
+    "dashboardNavigationItem": "css=.main-menu ul li span",
+    "quickLaunchBar": "css=.quick-launch-bar",
+    "editIcon": "css=.page-icon",
+    "saveArticleButton": "css=button.saveArticle"
+  }
+}

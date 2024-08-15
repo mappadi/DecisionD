@@ -1,0 +1,17 @@
+{
+	"pageUrl":"/",
+	"elements":{
+		"header":"css=header.eh-header",
+		"headerLogo":"css=.eh-header__logo",
+		"headerSearchIcon":"css=.eh-ccr-symbol-search.eh-header__icon.eh-header__icon-search",
+		"headerExplore":"css=.eh-header__text.eh-header__text--text-search.eh-header__text--text-search--open",
+		"headerCloseExplore":"css=span.eh-header__text.eh-header__text--text-search.eh-header__text--text-search--close",
+		"headerLogin":"css=a.dropdown-toggle__section.dropdown-toggle__section--logged-out",
+		"headerLoginIcon":"css=.eh-header__button.login a[href*='login']",
+		"profileOverlayTools":"css=ul.eh-profile__tools li a",
+		"myProfile":"css=.dropdown-toggle__section--logged-in",
+		"headerLoginIconAfterLogin":"css=.eh-header__button.login a[class*='dropdown-toggle__section dropdown-toggle__section--logged-in'] i:nth-of-type(1)",
+		"headerLoginMobile":"css=.eh-header__button.login a[href*='login'] i:nth-of-type(1)",
+		"logoutLink":"css=li.eh-profile__tools__item--logout a[href*='logout']"
+	}
+}

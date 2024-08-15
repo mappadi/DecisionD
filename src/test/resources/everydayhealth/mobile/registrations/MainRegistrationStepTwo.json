@@ -1,0 +1,11 @@
+{
+  "pageUrl": "/register/newsletter/",
+  "elements": {
+    "newsletterRecommendationTitle": "css=.usrData h2:first-child",
+    "mainSuggestions": "css=.media-body h4",
+    "mainSuggestionChecked": "css=.big-check",
+    "moreSuggestions": "css=label[for^='SuggestedNewsletters_']",
+    "moreSuggestionChecked": "css=.terms input[type='checkbox']:checked + input + label",
+    "dashboardButton": "css=#newsletterSignup input.transition"
+  }
+}

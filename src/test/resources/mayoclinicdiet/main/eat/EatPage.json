@@ -1,0 +1,19 @@
+{
+  "pageUrl": "/diet/members/eat",
+  "elements": {
+    "landingTitle": "css=.landing-title[style='background-image:url(http://content.everydayhealth.com/mcd/cms/eat_header.jpg)']",
+    "getStartedSection": "css=.landing-section>a[href='/diet/members/eat/get-started']",
+    "smartFoodChoicesSection": "css=.landing-section>a[href='/diet/members/eat/smart-food-choices']",
+    "mealsMadeEasySection": "css=.landing-section>a[href='/diet/members/eat/meals-made-easy']",
+    "eatingOutSection": "css=.landing-section>a[href='/diet/members/eat/eating-out']",
+    "getStartedImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/eat-get-started-main-landing.jpg']",
+    "getStartedSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/eat-get-started-main-landing.jpg']+h2",
+    "smartFoodChoicesImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/smart-food-choices-main-landing.jpg']",
+    "smartFoodChoicesSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/smart-food-choices-main-landing.jpg']+h2",
+    "mealsMadeEasyImage": "css=img[src='http://content.everydayhealth.com/mcd/cms/meals.jpg']",
+    "mealsMadeEasySectionName": "css=img[src='http://content.everydayhealth.com/mcd/cms/meals.jpg']+h2",
+    "eatingOutImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/eating-out-main-landing.jpg']",
+    "eatingOutSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/eating-out-main-landing.jpg']+h2",
+    "breadcrumb": "css=.column.breadcrumb"
+  }
+}

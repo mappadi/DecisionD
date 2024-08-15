@@ -1,0 +1,6 @@
+{
+  "pageUrl": "/dashboard/",
+  "elements": {
+    "welcomeDate": "css=.welcome-block h2.dashboard-block-heading"
+  }
+}

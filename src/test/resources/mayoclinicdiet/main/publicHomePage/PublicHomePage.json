@@ -1,0 +1,11 @@
+{
+  "pageUrl": "/diet/home",
+  "elements": {
+    "signInLink": "css=#logIn_header a",
+    "howItWorksSection": "css=.two-column-article-links.clearfix",
+    "whatYouGetSection": "css=.three-column-article-links.wyg-article-links.clearfix",
+    "successStorySection": "css=.row.one-col.success-stories-section",
+    "theMayoClinicDifferenceSection": "css=.clearfix.clinic-difference-section",
+    "readyToGetStartedSection": "css=.module.bottom-bar"
+  }
+}

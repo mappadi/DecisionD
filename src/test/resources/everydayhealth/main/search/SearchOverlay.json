@@ -1,0 +1,10 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "searchOverlayPageSearchInput": "css=.search__form__textbox.tt-input",
+    "searchOverlayPageAutoSuggestionsList": "css=a.tt-suggestion",
+    "searchForm": "css=form.search__form",
+    "magnifyingGlassIcon": "css=div.search-icon-magnifier-placeholder",
+    "clearButton": "css=a.search__form__icon--clear"
+  }
+}

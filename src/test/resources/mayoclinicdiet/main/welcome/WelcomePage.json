@@ -1,0 +1,19 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "welcomeTitle": "css=.onBoardingTitle",
+    "getStartedButton": "id=Submit",
+    "welcomeText": "css=.onBoardingTitle h1",
+    "specialOffer": "id=ball_i9Es2yAB0DUuWIl8sRLHgIQ",
+    "checkoutButton": "id=ball_iiFVsPkghaEPo2Zjw9LEGQ",
+    "noThanksButton": "id=ball_iXOynMn2CYkakTIiEdjwQ",
+    "coachingOffer": "id=ball_iNhJyILzMuEaWVEHb90YXaw",
+    "coachingOfferUpgradeButton": "id=ball_izWb330XIlEuOmQv0rocHA",
+    "dietBookOffer": "id=ball_ii2Sl1Dg3EkeIfNwCc2DKqA",
+    "dietBookOfferAddToCartButton": "id=ball_i7UKP0G40eSHxCcYZrDA",
+    "dietCookBookOffer": "id=ball_iZjuBIFFe0a8Qy9mpS5VMQ",
+    "dietCookBookPrice": "css=#ball_iZjuBIFFe0a8Qy9mpS5VMQ .mcd_sub_title .mcd_red",
+    "dietCookBookOfferAddToCartButton": "id=ball_iBdX36IYmEmCmrfzznW8GQ",
+    "dietCookBookGreenMark":"id=ball_iuvgL5XlWE2dLGviC9LPfQ"
+  }
+}

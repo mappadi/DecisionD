@@ -1,0 +1,23 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "quizPage": "id=mgmtSelectorQuiz",
+    "breadcrumb": "css=.mgmt-center-link a",
+    "headline": "css=.mgmt-slctr-header h1",
+    "deck": "css=.mgmt-slctr-question h2",
+    "readMoreLink": "css=.read-more-trigger",
+    "readMoreBefore": "css=.read-more-wrap",
+    "readMoreAfter": "css=.read-more-target",
+    "progressBar": "css=#mgmtSelectorSlider>li .mgmgt-slctr-progress>span",
+    "answerButton": "xpath=(//ul[@class='mgmtSelectorQuestionChoices'])[%s]/li",
+    "optionSelectorButton": "css=#mgmtSelectorSlider>li:nth-of-type(2) .mgmtSelectorQuestionChoices li button",
+    "nextAnswer": "css=.mgmt-selector-results-slide .mgmt-selector-r-pager a.next",
+    "resultDescription": "css=.mgmt-selector-results-slide .mgmt-slctr-r-dek",
+    "resultHeadline": "css=.mgmt-selector-results-slide .mgmt-slctr-r-hed",
+    "resultSubDescription": "css=.mgmt-selector-results-slide .mgmt-slctr-r-subdek p:last-child",
+    "resultContentHeadline": "css=.mgmt-slctr-r-linklist h3",
+    "resultContent": "css=.mgmt-slctr-r-linklist>div",
+    "previousLink": "css=.mgmt-selector-r-pager a.prev",
+    "startOver": "css=.mgmt-selector-r-restart a"
+  }
+}

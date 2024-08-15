@@ -1,0 +1,19 @@
+{
+  "pageUrl": "/diet/members/move",
+  "elements": {
+    "landingTitle": "css=.landing-title[style='background-image:url(http://content.everydayhealth.com/mayodiet/images/move-article-landing.jpg)']",
+    "getStartedSection": "css=.landing-section>a[href='/diet/members/move/get-started']",
+    "healthyBodyBenefitsSection": "css=.landing-section>a[href='/diet/members/move/healthy-body-benefits']",
+    "challengeYourselfSection": "css=.landing-section>a[href='/diet/members/move/challenge-yourself']",
+    "fitnessTipsSection": "css=.landing-section>a[href='/diet/members/move/fitness-tips']",
+    "getStartedImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-get-started-main-landing.jpg']",
+    "getStartedSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-get-started-main-landing.jpg']+h2",
+    "healthyBodyBenefitsImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-healthy-body-benefits-main-landing.jpg']",
+    "healthyBodyBenefitsSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-healthy-body-benefits-main-landing.jpg']+h2",
+    "challengeYourselfImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-challenge-yourself-main-landing.jpg']",
+    "challengeYourselfSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-challenge-yourself-main-landing.jpg']+h2",
+    "fitnessTipsImage": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-fitness-tips-main-landing.jpg']",
+    "fitnessTipsSectionName": "css=img[src='http://content.everydayhealth.com/mayodiet/images/move-fitness-tips-main-landing.jpg']+h2",
+    "breadcrumb": "css=.column.breadcrumb"
+  }
+}

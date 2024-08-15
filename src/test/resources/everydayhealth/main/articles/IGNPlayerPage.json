@@ -1,0 +1,20 @@
+{
+  "pageUrl": "",
+  "elements": {
+    "ignVideoModule": "css=div[id*=video-player]",
+    "screen": "css=.screen",
+    "ignPlayVideoButton": "css=.play-button",
+    "ignPauseVideoButton": "css=.play-pause-button",
+    "ignShareLink": "css=.tooltip-control>div>span:nth-child(1)",
+    "ignFacebookShare": "css=.share-buttons > .socialFacebook",
+    "ignTwitterShareLink": "css=.share-buttons > .socialTwitter",
+    "ignRedditShareLink": "css=.share-buttons > .socialReddit",
+    "ignGooglePlusShareLink": "css=.share-buttons > .socialGoogle",
+    "ignHeadLine": "css=.video-header-left>a",
+    "ignVolumeButton": "css=.volume-speaker",
+    "ignFullscreenButton": "css=.fullscreen-button",
+    "ignShareClose": "css=.close-button",
+    "ignVideoCaption": "css=figcaption[class*='media-credit'] div.eh-media-caption>a",
+    "ignVideoCredit": "css=figcaption[class*='media-credit'] div.eh-media-credit>a"
+  }
+}

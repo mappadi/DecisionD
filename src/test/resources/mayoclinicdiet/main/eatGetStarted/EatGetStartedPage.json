@@ -1,0 +1,32 @@
+{
+  "pageUrl": "/diet/members/eat/get-started",
+  "elements": {
+    "eatGetStartedTitle": "css=.landing-title[style='background-image:url(http://content.everydayhealth.com/mayodiet/images/eat-get-started-article-landing.jpg)']",
+    "articleSections": "css=.landing-sections .clearfix",
+    "articleImages": "css=.clearfix .landing-section-icon>img",
+    "articleTitle": "css=.landing-section-link-text.sub1>a",
+    "articleSummary": "css=.landing-section-link-descr",
+    "articleReadMoreLink": "css=.link-more.txt-uppercase.body3",
+    "breadcrumb": "css=.column.breadcrumb",
+    "slideShowArticle": "css=.article-content.slider.deck",
+    "quizPage": "id=quiz-intro",
+    "articleModule": "css=.module.common-article.clearfix",
+    "getStartedQaBreadcrumb": "css=.column.breadcrumb a[href='/diet/members/eat/get-started']",
+    "articleHeader": "css=.article-header>h1",
+    "articleSubText": "css=.deck-text.sub2",
+    "articleImg": "css=.lazy",
+    "articleContent": "css=div[class='article-content']",
+    "articleBreadcrumb": "css=.body4>li:nth-of-type(4)",
+    "firstSlide": "css=.bxslide:first-child",
+    "firstSlideImage": "css=.bxslide:first-child .bxslide-img-wrapper",
+    "firstSlideText": "css=.bxslide:first-child .bxslide-txt",
+    "thumbnails": "css=.bx-pager-spec-wrapper .bx-pager-li .bxslide-img",
+    "slidesQuantity": "css=.max",
+    "prevArrow": "css=.bx-pager-spec-wrapper .bx-prev",
+    "nextArrow": "css=.bx-pager-spec-wrapper .bx-next",
+    "backwardArrowDisable": "css=.article-content.slider.deck>div.bx-wrapper a.bx-prev.disabled",
+    "forwardArrowOrange": "css=.article-content.slider.deck>div.bx-wrapper a.bx-next",
+    "backwardArrowOrange": "css=.article-content.slider.deck>div.bx-wrapper a.bx-prev",
+    "forwardArrowDisable": "css=.article-content.slider.deck>div.bx-wrapper a.bx-next.disabled"
+  }
+}

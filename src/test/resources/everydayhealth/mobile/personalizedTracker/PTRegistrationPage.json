@@ -1,0 +1,19 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "signUpForm": "id=eh-registration",
+    "emailInputField": "id=trackerRegModel_Email",
+    "nextButton": "css=.nextbtn",
+    "editEmailButton": "css=button.edit-email",
+    "passwordInputField": "id=trackerRegModel_Password",
+    "mobilePhoneNumberInputField": "id=trackerRegModel_MobileNumber",
+    "termsAndConditionsCheckbox": "css=.termsandconditions .checkbox",
+    "consentCheckbox": "css=.opt-in .checkbox",
+    "signUpNowButton": "id=submit",
+    "passwordRequirementsBox": "css=.password-requirements",
+    "passwordRequirementsTips": "css=.password-requirements div",
+    "phoneNumberErrorMessage": "css=.phone-message",
+    "alreadyEhMemberMessage": "css=.notenrolled.status-info",
+    "errorMessageTryAgainLink":"id=try-again"
+  }
+}

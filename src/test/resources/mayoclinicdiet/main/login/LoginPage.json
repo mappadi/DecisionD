@@ -1,0 +1,13 @@
+{
+  "pageUrl": "/account/login",
+  "elements": {
+    "emailField": "id=Email",
+    "passwordField": "id=Password",
+    "submitButton": "id=Submit",
+    "loginTitle": "id=login-title",
+    "errorMessage": "id=email-error",
+    "forgotYourPasswordLink": "css=a.forgot",
+    "rememberMeCheckbox": "css=.picker-handle",
+    "logOutHeader": "css=#logOut_header a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pageUrl": "/register/",
+  "elements": {
+    "inlineRegistrationSection": "id=eh-registration",
+    "emailidTextBox": "id=quickRegModel_Email",
+    "passwordTextBox": "id=quickRegModel_Password",
+    "signupButton": "id=registration-submit",
+    "warningMessage": "xpath=//div[@class='email-message'][contains(text(),'%s')]",
+    "termsAndConditionsCheckBox": "css=.termsandconditions:not(.antispam-canada) .checkbox",
+    "passwordRequirementsBox": "css=.password-requirements div.requirement",
+    "passwordRequirementsStatus": "css=.password-requirements div.requirement-header",
+    "termsAndConditionsPrivacyPolicy": "css=.termsandconditions>label>a"
+  }
+}

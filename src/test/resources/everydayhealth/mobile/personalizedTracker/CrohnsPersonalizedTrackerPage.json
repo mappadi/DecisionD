@@ -1,0 +1,13 @@
+{
+  "pageUrl": "/dashboard/my-daily-crohns",
+  "elements": {
+    "dailyBowelMovementModule": "css=.my-actions:not(.weekly) .bowel-movement-readings",
+    "dailyBowelMovementModuleEditMode": "css=.my-actions:not(.weekly) .bowel-movement-readings .edit-mode",
+    "dailyBowelMovementDropdown": "id=bowelMovements",
+    "dailyBowelMovementDropdownOptions": "css=#bowelMovements option",
+    "dailyBowelMovementModuleData": "id=bowelMovementsValue",
+    "weeklyBowelMovementModule": "css=.weekly .bowel-movements-weekly-readings",
+    "weeklyBowelMovementModuleResult": "css=.weekly .bowel-movements-weekly-readings .result-container div:last-of-type",
+    "weeklyBowelMovementModulePoomoji": "css=.weekly .bowel-movements-weekly-readings .image-container"
+  }
+}

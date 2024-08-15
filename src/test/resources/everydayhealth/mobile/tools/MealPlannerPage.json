@@ -1,0 +1,12 @@
+{
+  "pageUrl": "/meal-planner/",
+  "elements": {
+    "activeMealPlanner": "css=nav.tools-navigation li.active.dmp",
+    "headingTitle": "css=#container h1",
+    "datePicker": "css=button.ui-datepicker-trigger",
+    "datePickerLeftArrow": "css=.dates a.nav-arrow.left",
+    "datePickerRightArrow": "css=.dates a.nav-arrow.right",
+    "viewByDay": "css=.viewbyday",
+    "viewByWeek": "css=a.viewbyweek"
+  }
+}

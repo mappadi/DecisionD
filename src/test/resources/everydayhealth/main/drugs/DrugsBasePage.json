@@ -1,0 +1,26 @@
+{
+  "pageUrl": "/drugs/",
+  "elements": {
+    "drugsTitle": "css=h1.h-title",
+    "drugsSearchField": "css=input#q",
+    "drugsSearchButton": "css=input.btn",
+    "drugsSearchAutoSuggestions": "css=ul.suggestions",
+    "drugsSearchAutoCompleteList": "css=ul.suggestions li",
+    "drugsHeadline": "css=.headline",
+    "drugsHeadlineTagline": "css=.headline span.tagline",
+    "drugsHeadlineTitle": "css=.headline h1",
+    "drugsHeadlineSocialBar": "css=.headline .ehshare",
+    "breadcrumbs": "css=ul.breadcrumb",
+    "breadcrumbsItems": "css=ul.breadcrumb li",
+    "breadcrumbLinks": "css=ul.breadcrumb li a",
+    "mostSearchedDrugsSection": "id=most-searched",
+    "mostSearchedClassesSection": "css=.content-section:nth-child(1)",
+    "mostSearchedClassesTitle": "css=.drug-class a",
+    "browseDrugsSection": "css=.content-section:nth-child(2):not(#most-searched)",
+    "browseDrugsSectionLetters": "css=.content-section:nth-child(2):not(#most-searched) a",
+    "aboutDrugsSection": "css=.about",
+    "mostSearchedDrugsBlock": "css=.drug-tile a",
+    "mostSearchedDrugsImages": "css=.drug-tile img",
+    "mostSearchedDrugsNames": "css=.drug-tile figcaption"
+  }
+}

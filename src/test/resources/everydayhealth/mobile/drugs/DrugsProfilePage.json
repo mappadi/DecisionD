@@ -1,0 +1,29 @@
+{
+  "pageUrl": "/drugs/${drugName}",
+  "elements": {
+    "drugHeadline": "id=top-bar",
+    "drugHeadlineTitle": "css=#top-bar h1",
+    "drugsHeadlineButton": "css=.btn-drugs",
+    "drugsHeadlineSocialBar": "css=#top-bar .ehshare",
+    "sideMenu": "css=.side-menu",
+    "sideMenuButton": "css=.side-menu-target",
+    "sideMenuItem": "css=ul.navigation li a",
+    "sideMenuItemText": "xpath=//ul[contains(@class,'navigation')]//li/a[contains(text(),'%s')]",
+    "sideMenuItemLink": "css=ul.navigation li a[data-target='#%s']:not(.reviews)",
+    "sideMenuReviewLink": "css=ul.navigation li a.reviews",
+    "sideMenuCouponsLink": "css=ul.navigation li a[href$='coupons']",
+    "reviewsLink": "css=.review-links a",
+    "getCouponsLink":"css=div.drugs-profile__jumplink a",
+    "getCouponsLinkIcon":"css=div.drugs-profile__jumplink span",
+    "seeAllImagesButton": "css=.all-images",
+    "image": "css=div#pictures .section_content .row figure",
+    "byLine": "css=.copyright p:nth-child(1)",
+    "lastUpdated": "css=.copyright p:nth-child(2)",
+    "readNext": "css=a.next",
+    "section": "css=div#%s",
+    "showAnswerLink": "css=.question-answer h5",
+    "answerText": "css=p.answer.closed",
+    "questionLink": "css=.question",
+    "couponsContainer": "id=singlecare__coupons"
+  }
+}

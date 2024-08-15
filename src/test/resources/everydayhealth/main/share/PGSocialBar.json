@@ -1,0 +1,12 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "shareBarContainer": "css=.eh-share",
+    "shareBarFacebookButton": "css=.eh-share__btn.eh-share__btn--facebook",
+    "shareBarTwitterButton": "css=.eh-share__btn.eh-share__btn--twitter",
+    "shareBarPinterestButton": "css=.eh-share__btn.eh-share__btn--pinterest",
+    "shareBarEmailButton": "css=.eh-share__btn.eh-share__btn--email",
+    "shareBarPrintButton": "css=.eh-share__btn.eh-share__btn--print",
+    "twitterShareMessageTextArea": "id=status"
+  }
+}

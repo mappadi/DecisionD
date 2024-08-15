@@ -1,0 +1,30 @@
+{
+  "pageUrl": "",
+  "elements": {
+    "triggerGridView": "css=a.grid-trigger",
+    "nextSlideArrow": "css=.slide-direction.slide-next a",
+    "prevSlideArrow": "css=.slide-direction.slide-prev a",
+    "prevSlideArrowDisabled": "css=.slide-direction.slide-prev",
+    "pinterestIcon": "id=slide-pinterest",
+    "gridView": "id=grid-container",
+    "title": "css=#slideshow .article-header>h1",
+    "slideImage": "css=.eh-slides-active-slide .slide-img",
+    "interstialAd2": "id=adDiv10",
+    "backToGallery": "css=.grid-controls",
+    "gridImages": "css=.slide-img-thumb-container>img",
+    "gridImageTitle": "css=.slide-img-thumb span:nth-child(2)",
+    "nextSlideshowArrow": "css=.next-slideshow.js-promoted",
+    "nextSlideshowThumbnail": "css=.fore.show .next-image",
+    "nextSlideshowName": "css=.fore.show .title",
+    "socialShareBar": "css=.ehshare.share-inline.loaded",
+    "slideHeadline": "css=.eh-slides-active-slide h2",
+    "slideCopy": "css=.slide-wrapper .slide-copy",
+    "slideHeadlineTablet": "css=.slide-display-copy h2",
+    "totalSlides": "css=.eh-slides>li",
+    "activeSlide": "css=.eh-slides-active-slide img",
+    "slideLastUpdatedDate": "css=.slide-controls.narrow .slideshow-dates",
+    "cusoSlideLastUpdatedDate": "css=.slideshow-dates",
+    "skipAdLink": "css=a.show",
+    "slideInfo": "css=.slide-count"
+  }
+}

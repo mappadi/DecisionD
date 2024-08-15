@@ -1,0 +1,25 @@
+{
+  "pageUrl": "/multiple-sclerosis/physical-therapy/",
+  "elements": {
+    "topicPageTopicName": "css=.sub-header h1",
+    "followButton": "css=.follow__button",
+    "miniContentCard": "css=.card__cover-link.card__cover-link--mini-guide",
+    "miniContentCardHeader": "css=.card.card--mini.card--bordered>div>h4>a",
+    "miniContentCardBorder": "css=.card.card--mini.card--bordered",
+    "miniContentCardImage": "css=.card.card--mini.card--bordered a:nth-of-type(2) img",
+    "miniContentCardRightArrow": "css=.mini-guides__control.mini-guides__control--right",
+    "miniContentCardLeftArrow": "css=.mini-guides__control.mini-guides__control--left",
+    "contentCard": "css=.card-container:not(.eh-popular-topics-wrapper)>div:not(.widget)",
+    "contentCardHref": "css=.card-container>div>a:nth-of-type(1)",
+    "contentCardImage": "css=.card-container>div:not(.card--no-image)>a:nth-of-type(2)>img",
+    "contentCardHeader": "css=.card-container>div>div>h3>a",
+    "contentCardDesc": "css=div.card__desc",
+    "contentCardIcon": "css=.card-container>div>div>aside>a>i",
+    "seeMoreButton": "css=.condition-landing-page-more-button.more-content",
+    "followingButton": "css=.follow__button.follow_button_on",
+    "topicNameInFollowingTopicsPage": "css=.tag.tag--deletable>span",
+    "closeTopicIconInFollowingTopicPage": "css=.tag.tag--deletable i",
+    "doneLinkInFollowingTopicPage": "css=.eh-private-page__edit-link.eh-private-page__edit-link--done>a",
+    "editLinkInFollowingTopicPage": "css=.eh-private-page.eh-private-page>div:nth-of-type(2)>a"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pageUrl": "/infographics/christmas-cookie-monster/",
+  "elements": {
+    "pinterest": "id=infographic-pinterest",
+    "relatedLinksHeading": "css=div.article-content h2>strong",
+    "relatedLinks": "css=div.article-body ul>li a",
+    "infographicsModule": "id=infographic-container"
+  }
+}

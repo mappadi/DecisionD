@@ -1,0 +1,13 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "popUpTitle": "id=share-heading",
+    "yourEmailTextField": "id=share-email-self",
+    "friendsEmailTextField": "id=share-email-friend",
+    "sendButton": "css=.modal-footer>button#share-modal-submit",
+    "signUpButton": "css=.modal-footer>button#share-modal-submit",
+    "closeButton": "css=#share-form .modal-header>.close",
+    "privacyPolicyLink": "css=#share-privacy>a",
+    "successMessage": "id=share-heading"
+  }
+}

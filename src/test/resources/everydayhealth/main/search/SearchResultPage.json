@@ -1,0 +1,16 @@
+{
+  "pageUrl": "/search/$searchQuery",
+  "elements": {
+    "siteSearchResultsSearchBox": "id=searchBox",
+    "siteSearchResultsSearchButton": "css=.searchButton",
+    "siteSearchResultsTitle": "css=.resultTitle a",
+    "siteSearchResultsTitleWithText": "xpath=//div[@class='resultTitle']/a/strong[contains(text(),'%s')]",
+    "viewMoreButton": "css=.viewMore",
+    "loadingIcon": "id=loading",
+    "searchResultsCounter": "css=.result",
+    "siteSearchNegativeResultLabel": "css=.bodyContentNoResults h2",
+    "siteSearchResultsCommonHealthConditionsLabel": "css=.deck>b",
+    "siteSearchResultsCommonHealthConditionsList": "css=.topstories .columns",
+    "siteSearchResultsCommonHealthSeeAllConditionsLink": "id=seeAllConditions"
+  }
+}

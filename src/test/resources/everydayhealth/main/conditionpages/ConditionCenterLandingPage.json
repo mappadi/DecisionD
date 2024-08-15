@@ -1,0 +1,28 @@
+{
+  "pageUrl": "/multiple-sclerosis/",
+  "elements": {
+    "landingPageMainImage": "css=.hero-image a",
+    "heroSection": "css=div.hero",
+    "guideButton": "css=.guide_button",
+    "guideHref": "css=.hero>a",
+    "heroTitle": "css=h1.guide_header",
+    "description": "css=.guide_subheader p",
+    "conditionTopicLabel": "css=.section-header",
+    "conditionTopicTag": "css=a.tag:not(.tag--more)",
+    "conditionTopicMoreButton": "css=a.tag--more",
+    "paginationBlock": "css=.pagination",
+    "paginationPrevLink": "css=.pagination__section--prev a",
+    "paginationNextLink": "css=.pagination__section--next a",
+    "paginationInfo": "css=.pagination__section--info",
+    "allArticlesWidget": "css=.widget-all-articles",
+    "allArticlesWidgetTypes": "css=.widget-all-articles a",
+    "allArticlesWidgetArticlesLink": "css=.widget-all-articles span",
+    "newsletterWidgetCard": "css=.eh-condition-landing-articles>div:nth-of-type(%s)+#newsletter-widget",
+    "contentCard": "css=.eh-condition-landing-articles .card-recommendation .card__cover-link",
+    "contentCardImage": "css=.eh-condition-landing-articles .card:not(.card--no-image):not(.card--promo) a.card__thumbnail img",
+    "contentCardHeader": "css=.eh-condition-landing-articles .card-recommendation .card__body h3 a",
+    "contentCardDesc": "css=.eh-condition-landing-articles .card__desc",
+    "contentCardIcon": "css=.eh-condition-landing-articles .card__body>aside a",
+    "contentCardByline": "css=.eh-condition-landing-articles .card__byline"
+  }
+}

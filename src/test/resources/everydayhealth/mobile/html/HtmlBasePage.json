@@ -1,0 +1,18 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "introImage": "css=div.eh-intro",
+    "introTitle": "css=h2.eh-intro-title",
+    "introText": "css=.eh-list-bullets",
+    "registrationForm": "css=div.eh-form",
+    "tipsSectionBlock": "css=.eh-section-tips",
+    "tipSection": "css=li.eh-tip",
+    "tipTitle": "css=.eh-tip-title",
+    "tipImage": "css=.eh-tip-image",
+    "tipDescription": "css=.eh-tip-entry",
+    "callOutSection": "css=section.eh-callout",
+    "callOutTitle": "css=.eh-callout-title",
+    "callOutButton": "css=.eh-callout-actions a",
+    "featureSection": "css=.eh-section-features"
+  }
+}

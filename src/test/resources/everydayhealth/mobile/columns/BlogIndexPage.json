@@ -1,0 +1,25 @@
+{
+  "pageUrl": "/columns/",
+  "elements": {
+    "heroSection": "css=div.sub-header--blog-index",
+    "heroSectionImage": "css=h1 img",
+    "heroSectionHeadline": "css=h1 .eh-blog-title-text",
+    "heroSectionDeck": "css=.sub-header--blog-index h3",
+    "adDiv5": "xpath=//div[@class='eh-section'][1]//div[@id='adDiv5']",
+    "adDiv7": "xpath=//div[@class='eh-section'][2]//div[@id='adDiv7']",
+    "adDiv9": "xpath=//div[@class='eh-section'][3]//div[@id='adDiv9']",
+    "sectionDivider": "css=hr.eh-section__divider",
+    "section": "css=div.eh-section",
+    "sectionHeading": "css=.eh-section>h2",
+    "sectionCards": "xpath=//div[@class='eh-section'][%s]/div[@class='eh-blogs-index-masonry']/div",
+    "sectionFranchiseCards": "xpath=//div[@class='eh-section'][%s]//div[@class='eh-blog-card']",
+    "franchiseCardAuthorAvatar": "xpath=//div[@class='eh-section'][%s]//div[@class='eh-blog-card']//div[contains(@class,'eh-blog-card__author-avatar')]",
+    "franchiseCardAuthorAvatarImage": "xpath=//div[@class='eh-section'][%s]//div[@class='eh-blog-card']//div[contains(@class,'eh-blog-card__author-avatar')]//img",
+    "franchiseCardTitle": "xpath=//div[@class='eh-section'][%s]//div[@class='eh-blog-card']//h3/a",
+    "franchiseCardAuthor": "xpath=//div[@class='eh-section'][%s]//div[@class='eh-blog-card']//h4/a",
+    "franchiseCardImageLink": "xpath=//div[@class='eh-section'][1]//div[@class='eh-blog-card']//img[@class='eh-blog-card__image']/ancestor::a",
+    "franchiseCardImage": "xpath=//div[@class='eh-section'][1]//div[@class='eh-blog-card']//img[@class='eh-blog-card__image']",
+    "newsletterWidgetAfterFirstSection": "css=div.eh-section:nth-of-type(1)+.widget--newsletter-blogs-index",
+    "newsletterWidgetTitle": "css=#newsletter-widget h3:not(.widget__title--success)"
+  }
+}

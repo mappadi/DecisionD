@@ -1,0 +1,23 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "featuredPromoSectionBlockBlueLink": "css=.section-featured__link",
+    "featuredPromoSectionBlockBlueLinkA": "css=.section-featured__link a",
+    "questionCardsSection": "css=.question-cards-section",
+    "questionCardsSectionDeck": "css=.question-cards-section__dek",
+    "questionCardsSectionFiltersSection": "css=.navigation-filters",
+    "questionCardsSectionFiltersItems": "css=.navigation-filters__item",
+    "questionCardsSectionItems": "css=.section-cards>*:not(.more-button-container)",
+    "questionCard": "css=.question-card",
+    "questionCardLink": "css=.question-card>a",
+    "questionCardSponsoredLabel": "css=.question-card:nth-of-type(%s) .question-card__sponsored-flag",
+    "questionCardQuestion": "css=h3.question-card__question",
+    "questionCardQuestionLink": "css=h3.question-card__question a",
+    "questionCardThumbnails": "css=.question-card__thumbnails",
+    "questionCardThumbnailImages": "css=.question-card:nth-of-type(%s) .question-card__thumbnails img",
+    "questionCardThumbnailShadowImages": "css=.question-card:nth-of-type(%s) .question-card__thumbnail--width-md+.question-card__thumbnail--width-sm+.question-card__thumbnail--width-xs",
+    "questionCardViewAllLink": "css=.question-card__link a",
+    "questionCardDateLabel": "css=.question-card__date",
+    "moreButton": "css=.more-button"
+  }
+}

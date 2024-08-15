@@ -1,0 +1,18 @@
+{
+  "pageUrl": "/food-fitness/journal/create-custom-exercise",
+  "elements": {
+    "exerciseNameInputField": "id=ExerciseName",
+    "howLongInputField": "id=DurationInMinute",
+    "noRadioButton": "css=.radio.no",
+    "submitButton": "id=btnSubmit",
+    "logThisLater": "css=input#DatePick[value='No']",
+    "caloriesSlider": "css=#slider>a",
+    "successMessage": "id=SuccessMsgDiv",
+    "takeToJournalLink": "id=btnGoToJournal",
+    "createAnotherExerciseLink": "id=btnCreateAnotherExercise",
+    "caloriesBurnedInputField": "id=CaloriesBurned",
+    "whenDropDown": "css=#DatePicker>option",
+    "estimatedCalories": "id=EstimatedCalories",
+    "errorMessage": "css=.error"
+  }
+}

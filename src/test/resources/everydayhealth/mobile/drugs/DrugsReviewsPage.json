@@ -1,0 +1,30 @@
+{
+  "pageUrl": "/drugs/${drugName}/reviews/",
+  "elements": {
+    "starRating": "css=.review-details ul.star-rating",
+    "reviewThisDrugPlus": "css=.form-toggle",
+    "showAll": "css=a[data-sortby='posteddate']",
+    "showHighest": "css=a[data-sortby='ratingshighest']",
+    "showLowest": "css=a[data-sortby='ratingslowest']",
+    "moreButton": "css=.btnmore",
+    "readPrevious": "css=a.prev",
+    "reviewItem": "css=.review-container",
+    "drugHeadlineTitle": "css=#top-bar .h1",
+    "reviewSection": "css=#review-form-container",
+    "reviewForm": "css=#reviewform",
+    "rateSectionElements": "css=.review-section:nth-child(1)>div",
+    "rateSectionStar": "css=.review-section:nth-child(1)>div:nth-child(%s) .btn.btn-star",
+    "rateSectionRequiredLabel": "css=.review-section:nth-child(1)>div h3 span",
+    "reasonDropdown": "css=#condition .newListSelected",
+    "experienceTextField": "css=#experience textarea",
+    "termsOfServiceCheckbox": "css=#terms .checkbox input",
+    "termsOfServiceRequiredLabel": "css=#terms h3 span",
+    "captcha": "css=.g-recaptcha",
+    "cancelButton": "css=.form-reset",
+    "submitButton": "css=.submit-btn",
+    "loadingIndicator":"css=.loading",
+    "pageInfo": "css=.review-pagination__section--info",
+    "previousArrow": "css=.review-pagination__section--prev a",
+    "nextArrow": "css=.review-pagination__section--next a"
+  }
+}

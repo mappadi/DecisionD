@@ -1,0 +1,17 @@
+{
+  "pageUrl": "/",
+  "elements": {
+    "socialBar": "xpath=(//*[contains(@id,'gigya-email-sharebar') or contains(@class,'ehshare share-inline')])[1]",
+    "facebookShareButton": "xpath=(//a[@data-name='facebook' or @data-share='facebook'])[1]",
+    "twitterShareButton": "xpath=(//a[@data-name='twitter' or @data-share='twitter'])[1]",
+    "pinterestShareButton": "xpath=(//a[@data-name='pinterest' or @data-share='pinterest'])[1]",
+    "emailShareButton": "xpath=(//*[contains(@id,'gigya-email-sharebar') or contains(@class,'sub-head__sharebar') or contains(@class,'ehshare share-inline')]//a[@data-name='email' or @data-share='email'])[1]",
+    "printShareButton": "xpath=(//a[@data-value='print' or @data-share='print'])[1]",
+	"saveLink":"css=.saveArticle>h4",
+	"saveLinkBookmark":"css=.eh-ccr-symbol-bookmark-on",
+    "socialShareButtons": "xpath=(//*[contains(@class,'ehshare share-inline')])[1]//*[@data-count]",
+    "socialShareButtonsCuso": "xpath=(//*[contains(@class,'ehshare share-inline')])[1]//li",
+    "socialShareButtonsNew": "css=.share_text",
+    "socialShareCount": "xpath=(//*[contains(@id,'gigya-email-sharebar') or contains(@class,'ehshare share-inline')])[1]//*[@class='share-count']"
+  }
+}

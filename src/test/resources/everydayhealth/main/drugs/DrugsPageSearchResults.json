@@ -1,0 +1,9 @@
+{
+  "pageUrl": "/drugs/search?q$={drugName}",
+  "elements": {
+    "searchResultsTitle": "id=search-results",
+    "drugsSearchResultTitles": "css=h2.drug-title>a",
+    "drugsSearchPositiveResultLabel": "css=div.query>h3",
+    "drugsSearchNegativeResultLabel": "css=.clearfix.result.no-result>p"
+  }
+}

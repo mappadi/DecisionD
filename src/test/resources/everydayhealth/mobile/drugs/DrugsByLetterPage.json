@@ -1,0 +1,12 @@
+{
+  "pageUrl": "/drugs/${letter}",
+  "elements": {
+    "drugsByLetterSection": "css=#widget-container .content-section",
+    "drugsByLetterSectionItems":"css=#widget-container .content-section .drug-class a",
+    "classesByLetterSection": "css=.col-md-8:not(#widget-container)>.content-section:nth-child(1)",
+    "classesByLetterSectionItems": "css=.col-md-8:not(#widget-container)>.content-section:nth-child(1) .drug-class a",
+    "browseDrugsSection": "css=.col-md-8:not(#widget-container)>.content-section:nth-child(2)",
+    "browseDrugsSectionLetter": "css=.col-md-8:not(#widget-container)>.content-section:nth-child(2) ul li",
+    "browseDrugsSectionLetterLink": "css=.col-md-8:not(#widget-container)>.content-section:nth-child(2) ul li a"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pageUrl": "/calorie-counter/",
+  "elements": {
+    "activeCalorieCounter": "css=nav.tools-navigation li.active.journal",
+    "headingTitle": "css=#Journal h1",
+    "datePicker": "css=button.ui-datepicker-trigger",
+    "datePickerLeftArrow": "css=.dates a.nav-arrow.left",
+    "datePickerRightArrow": "css=.dates a.nav-arrow.right"
+  }
+}

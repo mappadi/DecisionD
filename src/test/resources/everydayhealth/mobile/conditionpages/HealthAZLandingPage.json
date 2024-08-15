@@ -1,0 +1,15 @@
+{
+	"pageUrl":"/",
+	"elements":{
+		"header":"css=.article-header>h1",
+		"navigationLettersSection":"css=.letter-navigation",
+		"searchBox":"id=body-search-field",
+		"searchButton":"id=body-search-submit",
+		"navigationLetters":"css=.letter-navigation .list-inline li",
+		"navigationLettersWithLinks":"css=.letter-navigation .list-inline li a[href='#%s']",
+		"groupTitleLetters":"css=.link-holder div.group-title.letter h2",
+		"aboutHealthAtoZSectionContent":"css=.link-holder div.group-content p",
+		"mostSearchedConditions":"id=most-searched-conditions",
+		"conditionsSearchAutoCompleteList":"css=ul.suggestions li"
+	}
+}

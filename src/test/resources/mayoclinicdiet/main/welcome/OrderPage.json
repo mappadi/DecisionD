@@ -1,0 +1,13 @@
+{
+  "pageUrl": "https://register.everydayhealth.com/post-transaction/checkout?",
+  "elements": {
+    "orderDetails": "id=funnelRegLeft",
+    "cardInformationBlock": "css=.funnelTransForm .left",
+    "cardInformationLine": "css=.funnelTransForm .left p",
+    "shippingInformaitonBlock": "id=formFields",
+    "productDetailsItems": "css=.prodDetailItems",
+    "productDetailsItemName": "css=.prodDetailItems .middle h3",
+    "orderDetailsBlock": "css=.details",
+    "orderValue": "css=.totalAmt"
+  }
+}
